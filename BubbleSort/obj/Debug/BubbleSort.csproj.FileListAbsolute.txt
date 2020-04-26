@@ -1,0 +1,6 @@
+C:\Users\АртемГориянов\source\repos\Exam\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\АртемГориянов\source\repos\Exam\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\АртемГориянов\source\repos\Exam\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\АртемГориянов\source\repos\Exam\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\АртемГориянов\source\repos\Exam\BubbleSort\obj\Debug\BubbleSort.pdb
+C:\Users\АртемГориянов\source\repos\Exam\BubbleSort\obj\Debug\BubbleSort.csprojAssemblyReference.cache

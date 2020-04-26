@@ -1,0 +1,6 @@
+C:\Users\АртемГориянов\source\repos\Exam\Two\bin\Debug\Two.exe.config
+C:\Users\АртемГориянов\source\repos\Exam\Two\bin\Debug\Two.exe
+C:\Users\АртемГориянов\source\repos\Exam\Two\bin\Debug\Two.pdb
+C:\Users\АртемГориянов\source\repos\Exam\Two\obj\Debug\Two.csprojAssemblyReference.cache
+C:\Users\АртемГориянов\source\repos\Exam\Two\obj\Debug\Two.exe
+C:\Users\АртемГориянов\source\repos\Exam\Two\obj\Debug\Two.pdb

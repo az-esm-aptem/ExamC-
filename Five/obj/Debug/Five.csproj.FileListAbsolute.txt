@@ -1,0 +1,6 @@
+C:\Users\АртемГориянов\source\repos\Exam\Five\bin\Debug\Five.exe.config
+C:\Users\АртемГориянов\source\repos\Exam\Five\bin\Debug\Five.exe
+C:\Users\АртемГориянов\source\repos\Exam\Five\bin\Debug\Five.pdb
+C:\Users\АртемГориянов\source\repos\Exam\Five\obj\Debug\Five.csprojAssemblyReference.cache
+C:\Users\АртемГориянов\source\repos\Exam\Five\obj\Debug\Five.exe
+C:\Users\АртемГориянов\source\repos\Exam\Five\obj\Debug\Five.pdb

@@ -1,0 +1,6 @@
+C:\Users\АртемГориянов\source\repos\Exam\Six\bin\Debug\Six.exe.config
+C:\Users\АртемГориянов\source\repos\Exam\Six\bin\Debug\Six.exe
+C:\Users\АртемГориянов\source\repos\Exam\Six\bin\Debug\Six.pdb
+C:\Users\АртемГориянов\source\repos\Exam\Six\obj\Debug\Six.csprojAssemblyReference.cache
+C:\Users\АртемГориянов\source\repos\Exam\Six\obj\Debug\Six.exe
+C:\Users\АртемГориянов\source\repos\Exam\Six\obj\Debug\Six.pdb

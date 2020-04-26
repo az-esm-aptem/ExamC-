@@ -1,0 +1,6 @@
+C:\Users\АртемГориянов\source\repos\Exam\Four\bin\Debug\Four.exe.config
+C:\Users\АртемГориянов\source\repos\Exam\Four\bin\Debug\Four.exe
+C:\Users\АртемГориянов\source\repos\Exam\Four\bin\Debug\Four.pdb
+C:\Users\АртемГориянов\source\repos\Exam\Four\obj\Debug\Four.exe
+C:\Users\АртемГориянов\source\repos\Exam\Four\obj\Debug\Four.pdb
+C:\Users\АртемГориянов\source\repos\Exam\Four\obj\Debug\Four.csprojAssemblyReference.cache

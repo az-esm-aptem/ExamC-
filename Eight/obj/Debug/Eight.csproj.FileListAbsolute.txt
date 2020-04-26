@@ -1,0 +1,6 @@
+C:\Users\АртемГориянов\source\repos\Exam\Eight\obj\Debug\Eight.csprojAssemblyReference.cache
+C:\Users\АртемГориянов\source\repos\Exam\Eight\bin\Debug\Eight.exe.config
+C:\Users\АртемГориянов\source\repos\Exam\Eight\bin\Debug\Eight.exe
+C:\Users\АртемГориянов\source\repos\Exam\Eight\bin\Debug\Eight.pdb
+C:\Users\АртемГориянов\source\repos\Exam\Eight\obj\Debug\Eight.exe
+C:\Users\АртемГориянов\source\repos\Exam\Eight\obj\Debug\Eight.pdb

@@ -1,0 +1,6 @@
+C:\Users\АртемГориянов\source\repos\Exam\Exam\obj\Debug\Exam.csprojAssemblyReference.cache
+C:\Users\АртемГориянов\source\repos\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\АртемГориянов\source\repos\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\АртемГориянов\source\repos\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\АртемГориянов\source\repos\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\АртемГориянов\source\repos\Exam\Exam\obj\Debug\Exam.pdb

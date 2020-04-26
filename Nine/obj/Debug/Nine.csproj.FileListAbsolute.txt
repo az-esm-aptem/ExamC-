@@ -1,0 +1,6 @@
+C:\Users\АртемГориянов\source\repos\Exam\Nine\bin\Debug\Nine.exe.config
+C:\Users\АртемГориянов\source\repos\Exam\Nine\bin\Debug\Nine.exe
+C:\Users\АртемГориянов\source\repos\Exam\Nine\bin\Debug\Nine.pdb
+C:\Users\АртемГориянов\source\repos\Exam\Nine\obj\Debug\Nine.exe
+C:\Users\АртемГориянов\source\repos\Exam\Nine\obj\Debug\Nine.pdb
+C:\Users\АртемГориянов\source\repos\Exam\Nine\obj\Debug\Nine.csprojAssemblyReference.cache

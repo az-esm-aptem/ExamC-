@@ -1,0 +1,6 @@
+C:\Users\АртемГориянов\source\repos\Exam\One\bin\Debug\One.exe.config
+C:\Users\АртемГориянов\source\repos\Exam\One\bin\Debug\One.exe
+C:\Users\АртемГориянов\source\repos\Exam\One\bin\Debug\One.pdb
+C:\Users\АртемГориянов\source\repos\Exam\One\obj\Debug\One.exe
+C:\Users\АртемГориянов\source\repos\Exam\One\obj\Debug\One.pdb
+C:\Users\АртемГориянов\source\repos\Exam\One\obj\Debug\One.csprojAssemblyReference.cache

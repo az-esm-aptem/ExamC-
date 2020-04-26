@@ -1,0 +1,6 @@
+C:\Users\АртемГориянов\source\repos\Exam\Seven\bin\Debug\Seven.exe.config
+C:\Users\АртемГориянов\source\repos\Exam\Seven\bin\Debug\Seven.exe
+C:\Users\АртемГориянов\source\repos\Exam\Seven\bin\Debug\Seven.pdb
+C:\Users\АртемГориянов\source\repos\Exam\Seven\obj\Debug\Seven.csprojAssemblyReference.cache
+C:\Users\АртемГориянов\source\repos\Exam\Seven\obj\Debug\Seven.exe
+C:\Users\АртемГориянов\source\repos\Exam\Seven\obj\Debug\Seven.pdb
